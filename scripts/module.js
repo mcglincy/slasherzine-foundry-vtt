@@ -8,7 +8,7 @@ Hooks.on("morkborgReady", function() {
   console.log(game.morkborg.config);
 
   // override default Scvmfactory settings
-  game.morkborg.config.scvmfactory = {
+  game.morkborg.config.scvmFactory = {
     foodAndWaterPack: "morkborg.equipment-misc",
     foodItemName: "Dried food",
     waterItemName: "Waterskin",
