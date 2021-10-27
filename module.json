@@ -1,0 +1,93 @@
+{
+  "name": "slasher-jam",
+  "title": "Slasher Jam for MÖRK BORG",
+  "description": "",
+  "version": "This is auto replaced",
+  "library": "false",
+  "manifestPlusVersion": "1.0.0",
+  "minimumCoreVersion": "0.8.9",
+  "compatibleCoreVersion": "0.8.9",
+  "author": "michaelmars",
+  "dependencies": [
+    {
+      "name": "morkborg",
+      "type": "system"
+    }
+  ],
+  "esmodules": [
+  ],
+  "packs": [
+    {
+      "name": "class-cheerleader",
+      "label": "Class - Cheerleader",
+      "system": "morkborg",
+      "path": "./packs/class-cheerleader.db",
+      "entity": "Item"
+    },    
+    {
+      "name": "class-final-girl",
+      "label": "Class - Final Girl",
+      "system": "morkborg",
+      "path": "./packs/class-final-girl.db",
+      "entity": "Item"
+    },
+    {
+      "name": "class-jock",
+      "label": "Class - Jock",
+      "system": "morkborg",
+      "path": "./packs/class-jock.db",
+      "entity": "Item"
+    },
+    {
+      "name": "class-nerd",
+      "label": "Class - Nerd",
+      "system": "morkborg",
+      "path": "./packs/class-nerd.db",
+      "entity": "Item"
+    },
+    {
+      "name": "class-stoner",
+      "label": "Class - Stoner",
+      "system": "morkborg",
+      "path": "./packs/class-stoner.db",
+      "entity": "Item"
+    },
+    {
+      "name": "slasher-jam-equipment",
+      "label": "Slasher Jam Equipment",
+      "system": "morkborg",
+      "path": "./packs/slasher-jam-equipment.db",
+      "entity": "Item"
+    },
+    {
+      "name": "slasher-jam-powers",
+      "label": "Slasher Jam Powers",
+      "system": "morkborg",
+      "path": "./packs/slasher-jam-powers.db",
+      "entity": "Item"
+    },
+    {
+      "name": "slasher-jam-tables",
+      "label": "Slasher Jam Tables",
+      "system": "morkborg",
+      "path": "./packs/slasher-jam-tables.db",
+      "entity": "RollTable"
+    }
+  ],
+  "scripts": [
+      "scripts/module.js"    
+  ],
+  "styles": [
+    "/styles/module.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "url": "This is auto replaced",
+  "manifest": "This is auto replaced",
+  "download": "This is auto replaced"
+}
