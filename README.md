@@ -1,6 +1,6 @@
 # slasherzine-foundry-vtt
 
-Foundry module for the [Slasher Zine)[https://www.kickstarter.com/projects/michaelmars/slasher-zine-a-two-volume-zine-for-mork-borg), a two-volume zine for MÖRK BORG.
+Foundry module for the [Slasher Zine](https://www.kickstarter.com/projects/michaelmars/slasher-zine-a-two-volume-zine-for-mork-borg), a two-volume zine for MÖRK BORG.
 
 - [Slasher Victims](https://itch.io/jam/slasher-jam/rate/1217165) and tokens by Michael Mars.
 - Various icons by https://game-icons.net/
